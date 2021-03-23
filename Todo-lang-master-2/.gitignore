@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/Todo/classes_gen/
+/languages/Todo/generator/classes_gen/
